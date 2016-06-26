@@ -1518,7 +1518,7 @@
         self.clearcache = NO;
         self.clearsessioncache = NO;
 
-        self.zoom = YES;
+        self.zoom = NO;
         self.mediaplaybackrequiresuseraction = NO;
         self.allowinlinemediaplayback = NO;
         self.keyboarddisplayrequiresuseraction = YES;
